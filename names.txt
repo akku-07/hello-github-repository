@@ -1,4 +1,1 @@
-aakruti
-is
-learning
-git!
+hello my name is aakruti
